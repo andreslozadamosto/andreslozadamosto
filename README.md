@@ -1,6 +1,5 @@
 ### Hi there, I'm Andrés 👋
 
-*** 
 
 I'm a Full-Stack Developer helping companies to create amazing software. b       
 
