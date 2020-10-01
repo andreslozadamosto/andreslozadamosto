@@ -24,5 +24,5 @@ I'm a Full-Stack Developer helping companies to create amazing software. b
 <div align="right">
 <br/>
 <br/>
-[![Gmail Badge](https://img.shields.io/badge/-andres.lozadamosto@gmail.com-c14438?style=flat-square%26logo=Gmail%26logoColor=white%26link=mailto:andres.lozadamosto@gmail.com)](mailto:andres.lozadamosto@gmail.com) 
+[![Gmail Badge](https://img.shields.io/badge/-andres.lozadamosto%40gmail.com-c14438?style=flat-square%26logo=Gmail%26logoColor=white%26link=mailto:andres.lozadamosto@gmail.com)](mailto:andres.lozadamosto@gmail.com) 
 </div>
