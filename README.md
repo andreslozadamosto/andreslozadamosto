@@ -13,7 +13,7 @@ I'm a Full-Stack Developer helping companies to create amazing software. b
 - [Kafka + Docker + Net Core 101 - Part 1](https://dev.to/cloudx/kafka-docker-net-core-101-part-1-b0h)
 - [Pursuit of happiness - oh my Windows terminal](https://dev.to/cloudx/pursuit-of-happiness-oh-my-windows-terminal-18m5)
 
-#### 📰 Blog Posts [Spanish]
+### 📰 Blog Posts [Spanish]
 - [Docker: una introducción práctica a desarrolladores Net Core](https://medium.com/@andreslozadamosto/docker-una-introduccion-practica-a-desarrolladores-5ff7c574d87e)
 - [Creando nuestro primer API con ASP.Net Core](https://medium.com/@andreslozadamosto/creando-nuestro-primer-api-con-asp-net-core-6a71da6972f3)
 - [Lo nuevo de NetCore 3](https://medium.com/@andreslozadamosto/lo-nuevo-de-netcore-3-26490a62e509)
@@ -21,3 +21,4 @@ I'm a Full-Stack Developer helping companies to create amazing software. b
 - [Probando VS2019 y Net Core 3](https://medium.com/@andreslozadamosto/probando-vs2019-y-net-core-3-d2779b98459)
 
 
+[![Gmail Badge](https://img.shields.io/badge/-asterp04@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:asterp04@gmail.com)](mailto:asterp04@gmail.com)
