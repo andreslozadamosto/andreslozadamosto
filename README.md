@@ -1,10 +1,15 @@
 ## Hi there, I'm Andrés 👋
 
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/andreslozadamosto/)](https://www.linkedin.com/in/andreslozadamosto//) 
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/_diogorodrigues)](https://twitter.com/alozadamosto) 
+[![Medium Badge](https://img.shields.io/badge/-Medium-black?style=flat-square&labelColor=black&logo=medium&logoColor=white&link=https://medium.com/@andreslozadamosto/)](https://twitter.com/alozadamosto) 
+[![Dev.to Badge](https://img.shields.io/badge/-Dev.to-black?style=flat-square&labelColor=black&logo=dev.to&logoColor=white&link=https://dev.to/andreslozadamosto/)](https://dev.to/andreslozadamosto)
+
 
 I'm a Full-Stack Developer helping companies to create amazing software. b       
 
 
-#### 📰 Blog Posts [English]
+### 📰 Blog Posts [English]
 - [Kafka + Docker + Net Core 101 - Part 1](https://dev.to/cloudx/kafka-docker-net-core-101-part-1-b0h)
 - [Pursuit of happiness - oh my Windows terminal](https://dev.to/cloudx/pursuit-of-happiness-oh-my-windows-terminal-18m5)
 
@@ -16,8 +21,3 @@ I'm a Full-Stack Developer helping companies to create amazing software. b
 - [Probando VS2019 y Net Core 3](https://medium.com/@andreslozadamosto/probando-vs2019-y-net-core-3-d2779b98459)
 
 
-#### 📫 Where to find me
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/andreslozadamosto/)](https://www.linkedin.com/in/andreslozadamosto//) 
-[![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/_diogorodrigues)](https://twitter.com/alozadamosto) 
-[![Medium Badge](https://img.shields.io/badge/-Medium-black?style=flat-square&labelColor=black&logo=medium&logoColor=white&link=https://medium.com/@andreslozadamosto/)](https://twitter.com/alozadamosto) 
-[![Dev.to Badge](https://img.shields.io/badge/-Dev.to-black?style=flat-square&labelColor=black&logo=dev.to&logoColor=white&link=https://dev.to/andreslozadamosto/)](https://dev.to/andreslozadamosto)
