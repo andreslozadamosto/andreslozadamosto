@@ -20,4 +20,4 @@ I'm a Full-Stack Developer helping companies to create amazing software. b
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/andreslozadamosto/)](https://www.linkedin.com/in/andreslozadamosto//) 
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/_diogorodrigues)](https://twitter.com/alozadamosto) 
 [![Medium Badge](https://img.shields.io/badge/-Medium-black?style=flat-square&labelColor=black&logo=medium&logoColor=white&link=https://medium.com/@andreslozadamosto/)](https://twitter.com/alozadamosto) 
-[![Dev.to Badge](https://img.shields.io/badge/-Devto-black?style=flat-square&labelColor=black&logo=dev.to&logoColor=white&link=https://dev.to/andreslozadamosto/)](https://dev.to/andreslozadamosto)
+[![Dev.to Badge](https://img.shields.io/badge/-Dev.to-black?style=flat-square&labelColor=black&logo=dev.to&logoColor=white&link=https://dev.to/andreslozadamosto/)](https://dev.to/andreslozadamosto)
