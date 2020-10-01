@@ -20,10 +20,9 @@ I'm a Full-Stack Developer helping companies to create amazing software. b
 - [Indices y Ranges en C# 8](https://medium.com/@andreslozadamosto/indices-y-ranges-en-c-8-8e51d7f94eb5)
 - [Probando VS2019 y Net Core 3](https://medium.com/@andreslozadamosto/probando-vs2019-y-net-core-3-d2779b98459)
 
+[![Gmail Badge](https://img.shields.io/badge/-andres.lozadamosto04@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:andres.lozadamosto@gmail.com)](mailto:andres.lozadamosto@gmail.com) 
 
 <div align="right">
 <br/>
-<br/>  
-[![Gmail Badge](https://img.shields.io/badge/-andres.lozadamosto04@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:andres.lozadamosto@gmail.com)](mailto:andres.lozadamosto@gmail.com) 
 <br/>
 </div>
