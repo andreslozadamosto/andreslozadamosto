@@ -9,7 +9,7 @@
 I'm a Full-Stack Developer helping companies to create amazing software. b       
 
 
-## Blog Posts [English]
+### Blog Posts [English]
 - [Kafka + Docker + Net Core 101 - Part 1](https://dev.to/cloudx/kafka-docker-net-core-101-part-1-b0h)
 - [Pursuit of happiness - oh my Windows terminal](https://dev.to/cloudx/pursuit-of-happiness-oh-my-windows-terminal-18m5)
 
