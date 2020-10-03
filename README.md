@@ -6,7 +6,7 @@
 [![Dev.to Badge](https://img.shields.io/badge/-Dev.to-black?style=flat-square&labelColor=black&logo=dev.to&logoColor=white&link=https://dev.to/andreslozadamosto/)](https://dev.to/andreslozadamosto)
 
 
-I'm a Full-Stack Developer helping companies to create amazing software. b       
+I'm a Full-Stack Developer helping companies to create amazing software.        
 
 
 ### Blog Posts [English]
@@ -20,6 +20,7 @@ I'm a Full-Stack Developer helping companies to create amazing software. b
 - [Indices y Ranges en C# 8](https://medium.com/@andreslozadamosto/indices-y-ranges-en-c-8-8e51d7f94eb5)
 - [Probando VS2019 y Net Core 3](https://medium.com/@andreslozadamosto/probando-vs2019-y-net-core-3-d2779b98459)
 
+***
 
 <div align="right">
   <!-- 
