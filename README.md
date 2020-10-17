@@ -21,20 +21,15 @@ The future? I think .Net 5 will be a great option but I am very open for new pos
 
 ### Articles
 This year I started again returning something to the community who help my everyday writing tech articles, mainly on english but some in spanish.
+- [Moq vs NSubstitute - Who is the winner?](https://dev.to/cloudx/moq-vs-nsubstitute-who-is-the-winner-40gi)
+- [Kafka + Docker + Net Core 101 - Part 1](https://dev.to/cloudx/kafka-docker-net-core-101-part-1-b0h) (English)
+- [Pursuit of happiness - oh my Windows terminal](https://dev.to/cloudx/pursuit-of-happiness-oh-my-windows-terminal-18m5) (English)
+- [Docker: una introducción práctica a desarrolladores Net Core](https://medium.com/@andreslozadamosto/docker-una-introduccion-practica-a-desarrolladores-5ff7c574d87e) (Spanish)
+- [Creando nuestro primer API con ASP.Net Core](https://medium.com/@andreslozadamosto/creando-nuestro-primer-api-con-asp-net-core-6a71da6972f3) (Spanish)
+- [Lo nuevo de NetCore 3](https://medium.com/@andreslozadamosto/lo-nuevo-de-netcore-3-26490a62e509) (Spanish)
+- [Indices y Ranges en C# 8](https://medium.com/@andreslozadamosto/indices-y-ranges-en-c-8-8e51d7f94eb5) (Spanish)
+- [Probando VS2019 y Net Core 3](https://medium.com/@andreslozadamosto/probando-vs2019-y-net-core-3-d2779b98459) (Spanish)
 
-- [Kafka + Docker + Net Core 101 - Part 1](https://dev.to/cloudx/kafka-docker-net-core-101-part-1-b0h) 🇪🇸 
-
-
-### Blog Posts [English]
-
-- [Pursuit of happiness - oh my Windows terminal](https://dev.to/cloudx/pursuit-of-happiness-oh-my-windows-terminal-18m5)
-
-### Blog Posts [Spanish]
-- [Docker: una introducción práctica a desarrolladores Net Core](https://medium.com/@andreslozadamosto/docker-una-introduccion-practica-a-desarrolladores-5ff7c574d87e)
-- [Creando nuestro primer API con ASP.Net Core](https://medium.com/@andreslozadamosto/creando-nuestro-primer-api-con-asp-net-core-6a71da6972f3)
-- [Lo nuevo de NetCore 3](https://medium.com/@andreslozadamosto/lo-nuevo-de-netcore-3-26490a62e509)
-- [Indices y Ranges en C# 8](https://medium.com/@andreslozadamosto/indices-y-ranges-en-c-8-8e51d7f94eb5)
-- [Probando VS2019 y Net Core 3](https://medium.com/@andreslozadamosto/probando-vs2019-y-net-core-3-d2779b98459)
 
 ***
 
