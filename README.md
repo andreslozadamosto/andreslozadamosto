@@ -21,6 +21,7 @@ The future? I think .Net 5 will be a great option but I am very open for new pos
 
 ### Articles
 This year I started again returning something to the community who help my everyday writing tech articles, mainly on english but some in spanish.
+- [Net Core 5 - REST API tutorial] (https://dev.to/andreslozadamosto/creando-un-api-en-net-core-5-intro-2nc2) _(Spanish)_
 - [Moq and how creating Mocks with Linq](https://dev.to/andreslozadamosto/moq-and-how-creating-mocks-with-linq-2co7)  _(English)_
 - [Moq vs NSubstitute - Who is the winner?](https://dev.to/cloudx/moq-vs-nsubstitute-who-is-the-winner-40gi) _(English)_
 - [Kafka + Docker + Net Core 101 - Part 1](https://dev.to/cloudx/kafka-docker-net-core-101-part-1-b0h) _(English)_
