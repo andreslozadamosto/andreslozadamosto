@@ -12,16 +12,17 @@ Thanks to visit my place at GitHub 🙂
 Who am I?
 I'm someone who loves helping startups and small/big companies create the software that they really need using the latest techs on the market.
 
-I have had many roles other this time like Lead, Architect or Dev among others but none of that really no matters if we are not working from our heart and we do not provide the perfect solution for the client needs.
+I have had many roles other the years like Lead, Architect or Dev among others but none of that really matters if we are not working from our heart and we do not provide the perfect solution for the client needs.
 
-Today I´m glad working on the .Net Core stack over Microsoft Azure/docker and Angular/TS at the front but as always, we have to interact with others techs like NodeJs, Kafka/Rabbit, Elastic, NGinx, Docker, K8s and others.
+Today I´m glad working on the .Net stack over Microsoft Azure/docker and Angular/TS at the front but as always, we have to interact with others techs like NodeJs, Kafka/Rabbit, Elastic, NGinx, Docker, K8s and others.
 
-The future? I think .Net 5 will be a great option but I am very open for new possibilities.
+The future? I think .Net will be continue to be great option but I am very open for new possibilities.
 
 
 ### Articles
 This year I started again returning something to the community who help my everyday writing tech articles, mainly on english but some in spanish.
-- [Net Core 5 - REST API tutorial](https://dev.to/andreslozadamosto/creando-un-api-en-net-core-5-intro-2nc2) _(Spanish)_
+- [Midiendo el rendimiento de nuestro código con BenchmarkDotNet](https://dev.to/andreslozadamosto/midiendo-el-rendimiento-de-nuestro-codigo-con-benchmarkdotnet-4ek4) _(Spanish)_
+- [Net Core - REST API tutorial](https://dev.to/andreslozadamosto/creando-un-api-en-net-core-5-intro-2nc2) _(Spanish)_
 - [Moq and how creating Mocks with Linq](https://dev.to/andreslozadamosto/moq-and-how-creating-mocks-with-linq-2co7)  _(English)_
 - [Moq vs NSubstitute - Who is the winner?](https://dev.to/cloudx/moq-vs-nsubstitute-who-is-the-winner-40gi) _(English)_
 - [Kafka + Docker + Net Core 101 - Part 1](https://dev.to/cloudx/kafka-docker-net-core-101-part-1-b0h) _(English)_
